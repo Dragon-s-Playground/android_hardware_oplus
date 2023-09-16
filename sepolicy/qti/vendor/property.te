@@ -15,3 +15,7 @@ vendor_internal_prop(vendor_nw_exported_system_prop)
 
 # WCNSS
 vendor_internal_prop(vendor_vold_prop)
+
+#fastcharge
+vendor_internal_prop(vendor_fastcharge_prop)
+

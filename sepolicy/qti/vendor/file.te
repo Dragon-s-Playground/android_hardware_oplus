@@ -46,3 +46,6 @@ type vendor_proc_oplus_version, fs_type, proc_type;
 
 # Workqueue
 type sysfs_workqueue, fs_type, sysfs_type;
+
+#fastcharge
+type vendor_sysfs_battery_supply, sysfs_type, fs_type;
